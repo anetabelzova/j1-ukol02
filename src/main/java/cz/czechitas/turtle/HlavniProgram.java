@@ -112,6 +112,7 @@ public void nakresliKolecko(double polomer){
 
 
 
+
     public static void main(String[] args) {
         new HlavniProgram().start();
     }
